@@ -1,2 +1,2 @@
-# GameFiProject
-gameFiProject
+# CrazyRichRabbit
+
